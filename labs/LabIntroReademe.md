@@ -66,4 +66,4 @@ EXEC sp_addrolemember 'db_datareader', 'usgsloader'
 Congratulations! You are ready to dive into labs now 😊
 
 Start Lab 1:
-* https://github.com/abrahams1/azsynapselabsny/blob/master/labs/Lab1.pdf
+* https://github.com/benleroux/azsynapselabsyyc/blob/master/labs/Lab1.pdf
